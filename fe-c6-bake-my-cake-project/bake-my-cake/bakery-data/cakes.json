@@ -1,0 +1,331 @@
+{
+  "desserts": [
+    {
+      "id": 1,
+      "itemname": "Chocolate Blueberries Cake",
+      "category": "cake",
+      "price": 250,
+      "rating": 5,
+      "imagesUrl": "Berries Summer Cupcakes"
+    },
+    {
+      "id": 2,
+      "itemname": "Cookies Cream Cake",
+      "category": "cake",
+      "price": 260,
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "itemname": "Monster Theme Cake",
+      "category": "cake",
+      "price": 280,
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "itemname": "Berries Summer Cupcakes",
+      "category": "cake",
+      "price": 180,
+      "rating": 5
+    },
+    {
+      "id": 5,
+      "itemname": "Cherry Jelly Cheesecake",
+      "category": "cake",
+      "rating": 5
+    },
+    {
+      "id": 6,
+      "itemname": "Chocolate Cupcake",
+      "category": "cake",
+      "price": 230,
+      "rating": 5
+    },
+    {
+      "id": 7,
+      "itemname": "Chocolate Summer Berries",
+      "category": "cake",
+      "rating": 5
+    },
+    {
+      "id": 8,
+      "itemname": "Classic Cheesecake",
+      "category": "cake",
+      "price": 172,
+      "rating": 5
+    },
+    {
+      "id": 9,
+      "itemname": "Easter Cupcakes",
+      "category": "cake",
+      "price": 35,
+      "rating": 5
+    },
+    {
+      "id": 10,
+      "itemname": "Fruit Cake",
+      "category": "cake",
+      "price": 100,
+      "rating": 5
+    },
+    {
+      "id": 11,
+      "itemname": "Pumpkin Spice Cupcakes",
+      "category": "cake",
+      "rating": 5
+    },
+    {
+      "id": 12,
+      "itemname": "Muffin Devil Horns",
+      "category": "cake",
+      "price": 30,
+      "rating": 5
+    },
+    {
+      "id": 13,
+      "itemname": "Muffin Ghost",
+      "category": "cake",
+      "price": 23,
+      "rating": 5
+    },
+    {
+      "id": 14,
+      "itemname": "Chocolate Cookies",
+      "category": "cookie",
+      "price": 25,
+      "rating": 5
+    },
+    {
+      "id": 15,
+      "itemname": "Butter Cookies",
+      "category": "cookie",
+      "rating": 5
+    },
+    {
+      "id": 16,
+      "itemname": "Isometric chocolate brownies",
+      "category": "brownie",
+      "price": 30,
+      "rating": 5
+    },
+    {
+      "id": 17,
+      "itemname": "Brownies Different Flavor",
+      "category": "brownie",
+      "price": 35,
+      "rating": 4
+    }
+  ],
+  "customerdetails": [
+    {
+      "quantity": 2,
+      "DateOfOrder": "2023-09-07",
+      "Name": "venu",
+      "Email": "venu@gmail.com",
+      "Phone": "8524808454",
+      "city": "vellore",
+      "flatno": 123,
+      "zipcode": 636701,
+      "price": 60,
+      "total": 120,
+      "name": "Monster Theme Cake",
+      "id": 1
+    },
+    {
+      "quantity": 1,
+      "DateOfOrder": "2023-09-07",
+      "Name": "rahul",
+      "Email": "rahul@gmail.com",
+      "Phone": "9654055565",
+      "city": "salem",
+      "state": "tamilnadu",
+      "flatno": 123,
+      "zipcode": 636701,
+      "price": 240,
+      "total": 240,
+      "name": "Monster Theme Cake",
+      "id": 2
+    },
+    {
+      "quantity": 3,
+      "DateOfOrder": "2023-09-07",
+      "Name": "pugal",
+      "Email": "pugal@gmail.co",
+      "Phone": "8654065165",
+      "city": "dharmapuri",
+      "state": "tamilnadu",
+      "zipcode": 636701,
+      "flatno": 123,
+      "price": 120,
+      "total": 360,
+      "name": "Chocolate Cupcake",
+      "id": 3
+    },
+    {
+      "quantity": 1,
+      "DateOfOrder": "2023-09-07",
+      "Name": "surya",
+      "Email": "surya@gmail.com",
+      "Phone": "7484065162",
+      "city": "erode ",
+      "flatno": 123,
+      "state": "tamilnadu",
+      "zipcode": 636701,
+      "price": 100,
+      "total": 100,
+      "name": "Cookies Cream Cake",
+      "id": 4
+    },
+    {
+      "quantity": 2,
+      "DateOfOrder": "2023-09-07",
+      "Name": "praveen",
+      "Email": "praveen@gmail.com",
+      "Phone": "9997065165",
+      "city": "theni",
+      "state": "tamilnadu",
+      "flatno": 123,
+      "zipcode": 636701,
+      "price": 120,
+      "total": 240,
+      "name": "Monster Theme Cake",
+      "id": 5
+    },
+    {
+      "quantity": 1,
+      "DateOfOrder": "2023-09-07",
+      "Name": "santha",
+      "Email": "santha@gmail.com",
+      "Phone": "9876554456",
+      "city": "chennai",
+      "flatno": 123,
+      "state": "tamilnadu",
+      "zipcode": 636701,
+      "price": 700,
+      "total": 700,
+      "name": "Cookies Cream Cake",
+      "id": 6
+    },
+    {
+      "quantity": 2,
+      "DateOfOrder": "2023-10-11T18:30:00.000Z",
+      "Name": "venu prasath",
+      "Email": "venuprasath1997@gmail.com",
+      "Phone": "7892345660",
+      "city": "us",
+      "state": "New York",
+      "zipcode": "636701",
+      "flatno": "123",
+      "total": 500,
+      "price": 250,
+      "name": "Chocolate Blueberries Cake",
+      "id": 7
+    },
+    {
+      "total": 1250,
+      "quantity": 5,
+      "DateOfOrder": "2023-10-25T18:30:00.000Z",
+      "Name": "venu prasath",
+      "Email": "venuprasath1997@gmail.com",
+      "Phone": "7892345660",
+      "city": "us",
+      "state": "NewYork",
+      "zipcode": "636701",
+      "flatno": "123",
+      "price": 250,
+      "name": "Chocolate Blueberries Cake",
+      "id": 8
+    },
+    {
+      "quantity": 1,
+      "Name": "venu prasath",
+      "Email": "venuprasath1997@gmail.com",
+      "Phone": "7892345660",
+      "city": "us",
+      "state": "NewYork",
+      "zipcode": "636701",
+      "DateOfOrder": "2023-10-11T18:30:00.000Z",
+      "flatno": "123",
+      "total": 250,
+      "price": 250,
+      "name": "Chocolate Blueberries Cake",
+      "id": 9
+    },
+    {
+      "quantity": 2,
+      "DateOfOrder": "2023-10-11T18:30:00.000Z",
+      "Name": "venu prasath",
+      "Email": "venuprasath1997@gmail.com",
+      "Phone": "7892345660",
+      "city": "us",
+      "state": "NewYork",
+      "zipcode": "636701",
+      "flatno": "123",
+      "total": 500,
+      "price": 250,
+      "name": "Chocolate Blueberries Cake",
+      "id": 10
+    },
+    {
+      "quantity": 2,
+      "DateOfOrder": "2023-10-18T18:30:00.000Z",
+      "Name": "venu prasath",
+      "Email": "venuprasath1997@gmail.com",
+      "Phone": "7892345660",
+      "city": "us",
+      "state": "NewYork",
+      "zipcode": "636701",
+      "flatno": "133",
+      "total": 500,
+      "price": 250,
+      "name": "Chocolate Blueberries Cake",
+      "id": 11
+    },
+    {
+      "quantity": 9,
+      "Name": "venu prasath",
+      "Email": "venuprasath1997@gmail.com",
+      "Phone": "7892345660",
+      "city": "us",
+      "state": "NewYork",
+      "zipcode": "636701",
+      "DateOfOrder": "2023-10-13T18:30:00.000Z",
+      "flatno": "123",
+      "total": 2250,
+      "price": 250,
+      "name": "Chocolate Blueberries Cake",
+      "id": 12
+    },
+    {
+      "quantity": 8,
+      "DateOfOrder": "2023-10-12T18:30:00.000Z",
+      "Name": "venu prasath",
+      "Email": "venuprasath1997@gmail.com",
+      "Phone": "7892345660",
+      "city": "us",
+      "state": "NewYork",
+      "zipcode": "636701",
+      "flatno": "123",
+      "total": 2000,
+      "price": 250,
+      "name": "Chocolate Blueberries Cake",
+      "id": 13
+    },
+    {
+      "quantity": 5,
+      "Name": "venuprasath",
+      "DateOfOrder": "2023-12-13T18:30:00.000Z",
+      "Email": "venuprasath1997@gmail.com",
+      "Phone": "7892345660",
+      "flatno": "123",
+      "city": "us",
+      "state": "NewYork",
+      "zipcode": "636701",
+      "total": 1250,
+      "price": 250,
+      "name": "Chocolate Blueberries Cake",
+      "id": 14
+    }
+  ]
+}
